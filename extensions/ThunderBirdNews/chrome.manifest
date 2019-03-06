@@ -1,1 +1,3 @@
+content birdnews content/
+skin birdnews classic/1.0 skin/
 overlay chrome://messenger/content/messenger.xul chrome://birdnews/content/birdnews.xul

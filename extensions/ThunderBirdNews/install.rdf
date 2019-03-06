@@ -4,7 +4,8 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>birdnews</em:id>
+    <em:type>2</em:type>
+    <em:id>birdnews@kallup.solutions</em:id>
     <em:name>Math ThunderBirdNews</em:name>
     <em:version>1.0</em:version>
     <em:creator>kallup non-profit</em:creator>
@@ -12,8 +13,8 @@
     <em:targetApplication>
       <Description>
         <em:id>{3550f703-f179-4d05-9a08-453d09bdfdc6}</em:id>
-        <em:minVersion>1.5</em:minVersion>
-        <em:maxVersion>62.0a1</em:maxVersion>
+        <em:minVersion>60.0</em:minVersion>
+        <em:maxVersion>60.4.0</em:maxVersion>
       </Description>
     </em:targetApplication>
 
