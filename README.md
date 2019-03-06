@@ -1,0 +1,2 @@
+# ThunderBirdNews
+addon test
